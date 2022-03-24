@@ -1,10 +1,16 @@
-I hereby declare that this submission is my own original work and to the best of my
-knowledge it contains no materials previously published or written by another person. I am aware that submitting solutions that are not my own work will result in an NC of the course.
+#Spring Boot Simple Rest API with PostgreSQL
 
-I am aware that I am not allowed to share solutions with other students.
+This repository teachs you how to write an N Tier enterprise application backed by a Postgres Database. You will also learn important concepts such as Restful API's, Dependency Injection, parsing JSON objects, POST, GET, PUT, and DELETE HTTP Requests and more. I have created a Student application which gives a json response with student's personnal data.
 
-I am aware that if I submit only parts of this lab that points will be subtracted.
 
-I am aware that if my lab submission does not contain this readme.txt file that I do not get points for this lab.
 
-Fazliddin
+##Topics covered: 
+- API layer
+- @GetMapping, @PostMapping, @DeleteMapping, @PutMapping
+- Service layer
+- Data Access layer
+- PostgreSQL database Connection
+- ORM with Hibernate
+- Dependency Injection and @Autowired
+- JPA and @Entity, @Table, @Transient, @Transactional 
+- Packaging and Running the application
