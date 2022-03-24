@@ -1,10 +1,10 @@
-#Spring Boot Simple Rest API with PostgreSQL
+# Spring Boot Simple Rest API with PostgreSQL
 
 This repository teachs you how to write an N Tier enterprise application backed by a Postgres Database. You will also learn important concepts such as Restful API's, Dependency Injection, parsing JSON objects, POST, GET, PUT, and DELETE HTTP Requests and more. I have created a Student application which gives a json response with student's personnal data.
 
 
 
-##Topics covered: 
+## Topics covered: 
 - API layer
 - @GetMapping, @PostMapping, @DeleteMapping, @PutMapping
 - Service layer
